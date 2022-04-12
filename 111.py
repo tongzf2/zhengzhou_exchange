@@ -88,3 +88,4 @@ def main(year):
 if __name__ == '__main__':
     year = 2021
     main(year)
+    print("hello world")
